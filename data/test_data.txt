@@ -1,0 +1,11 @@
+1 test1 12.5
+2 test2 19.8
+3 test3 27.1
+4 test4 34.4
+5 test5 41.7
+6 test6 49.0
+7 test7 56.3
+8 test8 63.6
+9 test9 70.9
+10 test10 78.2
+
